@@ -13,15 +13,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Gusto](https://boards.greenhouse.io/gusto/jobs/3499036) | SF, NYC, Denver | |
-|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
-|<del>Bridgewater Associates</del> | | **Closed** |
-|[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`, for Sophomores and Juniors only |
-|<del>BlackStone</del> | | **Closed** |
-|<del>PWC</del> | | **Closed** |
+
+
 |[AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
-|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship) | Various | Positions in Software Engineering and Trading. Will not sponsor individuals for employment authorization for these job openings. |
-|[Caterpillar](https://careers.caterpillar.com/en/jobs/job/r0000061559-2022-engineering-summer-intern/) | Illinois | The internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. |
+
 |[Schneider Downs](https://schneiderdowns.csod.com/ats/careersite/JobDetails.aspx?id=474&site=4) | Pittsburgh, PA | IT Intern, Cybersecurity Intern. |
 |[GE](https://jobs.gecareers.com/global/en/search-results) | Various | [GE Aviation Aviation Systems](https://jobs.gecareers.com/global/en/job/R3560419/GE-Aviation-Aviation-Systems-Intern-Summer-2022), [GE Gas Power Digital Technology](https://jobs.gecareers.com/global/en/job/R3558732/Gas-Power-Digital-Technology-Intern-2022) and other Intern positions are available. Some roles are restricted to U.S. persons only or those who are legally authorized to work in the United States. |
 |[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen or eligible to obtain the required authorizations from the U.S. Department of State. |
@@ -29,7 +24,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Bessemer Ventures Fellowship](https://www.bvp.com/bessemer-fellows) | Various | |
 |<del>Audible</del> | |  **Closed** |
 |[KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/1/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Keydotcom) | Various | [Enterprise Security](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Plymouth-Meeting-PA/Summer-2022-Key-Technology--Operations---Services--Internship--Enterprise-Security-Track-_R-755?source=Keydotcom), [Enterprise Payments](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2022-Enterprise-Payments-Summer--Intern_R-743?source=Keydotcom), [Technology](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Buffalo-NY/Summer-2022-Key-Technology--Operations---Services--Internship--Technology-Track-_R-751?source=Keydotcom) and other Intern positions are available. Some positions may NOT be eligible for employment visa sponsorship for non-U.S. citizens. |
-|[General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Warren, MI | [Hardware Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Hardware-Engineering-Internship-Program_JR-000045485), [Software Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Software-Engineering-Internship-Program_JR-000045488) Intern positions are available. Please only apply if you do not need sponsorship to work in the United States now or in the future. We are unable to consider candidates who require sponsorship. |
+
 |[Susquehanna (SIG)](https://careers.sig.com/job/5439/Software-Engineering-Internship-Program-Summer-2022) | Bala Cynwyd, PA | Software Engineering Internship. Visa sponsorship is available for this position. |
 |[Five Rings](https://fiverings.avature.net/careers/SearchJobs/?splitLocationSearch_country=233&524=534&524_format=523&listFilterMode=1&folderRecordsPerPage=6&) | NYC | Software, Trading, Research Internships |
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&search_term=#careers) | Chicago, Boston | Software, Trading, Quant Internships. Legal authorization to work in the U.S. is required. |
@@ -48,8 +43,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various| Summer Analyst Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-362ee664293b/candidate/so/pm/1/pl/1/opp/4821-Summer-Analyst-Program-Americas/en-GB)| Various| Summer Analyst Program Note: Requires CodeVue (Programming Test + Video recording) submission up to 96 hours after application submission. |
 |[Bank of America](https://bankcampuscareers.tal.net/vx/brand-4/candidate/so/pm/1/pl/1/opp/7140-Global-Technology-Summer-Analyst-Program-2022/en-GB)| Various| Global Technology Summer Analyst Program |
-|[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=8471) | Houston, NYC | SWE Internship and Quant Research roles. |
-|[Cigna](https://jobs.cigna.com/us/en/job/21012002/Cigna-Technology-Early-Career-Development-Program-TECDP-Summer-Intern-2022-Evergreen) | Various | Application Developer, Infrastructure Engineer, Network Engineer and other Intern positions are available. The internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. |
+
 |[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
 |[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. |
 |[US Ventures](https://careers.usventure.com/us/en/job/USVEUSREQ007946/Software-Engineering-Intern) | Green Bay, WI | |
@@ -86,7 +80,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[P&G](https://www.pgcareers.com/search-jobs?k=Intern&ascf=[{%27key%27:%27custom_fields.Language%27,%27value%27:%27English%27},]&alp=6252001&alt=2) | Various | Software Engineer/Data Engineer, IT Analytics and Insights and other Intern positions are available. Will not sponsor work visas for some positions. |
 |<del>Raytheon Technologies</del>|Cedar Rapids, IA| **Closed** |
 |[RSM](https://jobs.rsmus.com/ListJobs?Keyword=Summer+2022) | Various | [Technology - Business Apps](https://jobs.rsmus.com/ShowJob/JobId/498233/2022SummerConsultingInternTechnologyBusinessAppsNAV), [Data & Analytics Business Intelligence](https://jobs.rsmus.com/ShowJob/JobId/499037/2022SummerConsultingInternTechnologyDataAnalyticsBusinessIntelligence), [Application Development - NetSuite](https://jobs.rsmus.com/ShowJob/JobId/508905/2022SummerConsultingInternApplicationDevelopmentNetSuite) and other Intern positions are available. |
-|[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR3553/Computer-Science-Intern-Summer-2022) |  McLean, VA | Computer Science Intern position is available. Will not sponsor work visas now or in the future. |
+
 |[Nestle](https://nestleusa.taleo.net/careersection/5/jobdetail.ftl?job=21005338&src=SNS-102) | Arlington, VA | Data Science Intern position is available. |
 |[L3Harris Technologies](https://careers.l3harris.com/job/greenville/software-engineering-intern-co-op-greenville-tx-summer-fall-co-op-and-summer-internship-2022/4832/11663221136) | Greenville, TX | SWE Intern position is available. Summer/Fall Co Op is also available. Please be aware many of our positions require the ability to obtain a security clearance (US citizenship required). In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information. |
 |[PEAK6](http://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineering-internship-for-women-summer-2022/3343572)| Chicago, IL | Software Engineering Internship for Women. |
@@ -112,7 +106,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422890002?gh_src=977bb0612us) | Pittsburgh, PA | SWE Intern, [Data Science Intern](https://boards.greenhouse.io/duolingo/jobs/5445806002), [Associate PM Intern](https://boards.greenhouse.io/duolingo/jobs/5445799002) |
 |[Nuro.ai](https://www.nuro.ai/careersitem?gh_jid=3356175) | Mountain View, CA | Software Engineer Intern |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2022/1786/11941383104) | Various | [Master's Data Science Internship](https://campus.capitalone.com/job/-/-/1786/19642559) |
- |[Hyperscience](https://jobs.lever.co/hyperscience/c136b270-1682-4ac7-82d8-83992b596d6c) | NYC | Software Engineering Intern, [Machine Learning Intern](https://jobs.lever.co/hyperscience/0d9aff24-1f5c-4477-848b-e0366ebaff44) Note: Visa sponsorship is not available. |
+
 |[Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern |
 |<del>Cox Automotive</del> | | **Closed** |
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-category=Software%2520Development%2520%2526%2520Support&experience=Intern) | Various | Various positions |
@@ -354,77 +348,11 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Qumulo](https://qumulo.com/company/jobs/?gh_jid=3434199) | Seattle, WA | Software Development Engineer |
 |[Pendo](https://boards.greenhouse.io/pendo/jobs/5549592002) | Raleigh, NC | Software Engineering Intern |
 |[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
-|[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
 |[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
-|[GitLab](https://boards.greenhouse.io/gitlab/jobs/5197819002) | Remote | Engineering Internship |
 |[Lumen Technologies](https://jobs.lumen.com/global/en/job/262143/Intern-Software-Engineer-Summer-2022-CO-or-Remote-US) | Remote | Software Engineer |
 |[Yahoo](https://vzbuilders.wd5.myworkdayjobs.com/careers/job/US---Dulles/Software-Engineering-Intern_JR0017135) | Dulles, VA | Software Engineering Intern |
 |[Unisys](https://jobs.unisys.com/us/en/job/REQ527714/Software-Engineer-Intern) | Irvine, CA or Meagean, MI| Software Engineer Intern |
 |[MailChimp](https://boards.greenhouse.io/mailchimp/jobs/3494609) | Atlanta, GA | Android Intern, [IOS Intern](https://boards.greenhouse.io/mailchimp/jobs/3494608) |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
-|[Flexport](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
-|<del>Airbnb</del> | San Francisco, CA | **Closed** <del>Software Engineer Intern</del> |
 
 
-**We love our contributors ❤️❤️**
-
-Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-* [JackGoldsworth](https://github.com/JackGoldsworth)
-* [GintasS](https://github.com/gintass)
-* [zhixiangteoh](https://github.com/zhixiangteoh)
-* [CDFalcon](https://github.com/CDFalcon)
-* [Carlwasinfected](https://github.com/Carlwasinfected)
-* [jessicatweneboah](https://github.com/jessicatweneboah)
-* [ksapru](https://github.com/ksapru)
-* [petecao](https://github.com/petecao)
-* [MetricVoid](https://github.com/MetricVoid)
-* [frankhee](https://github.com/frankhee)
-* [kstonekuan](https://github.com/kstonekuan)
-* [itscrystalli](https://github.com/itscrystalli)
-* [LeonSo7](https://github.com/LeonSo7)
-* [deltaprophet](https://github.com/deltaprophet)
-* [dragon-girl88](https://github.com/dragon-girl88)
-* [jameszhang-a](https://github.com/jameszhang-a)
-* [jeffless](https://github.com/jeffless)
-* [Aults](https://github.com/Aults)
-* [EParmar18](https://github.com/EParmar18)
-* [nguyenm2151](https://github.com/nguyenm2151)
-* [Lord-14](https://github.com/Lord-14)
-* [christopherhui](https://github.com/christopherhui)
-* [nihar-joshi](https://github.com/nihar-joshi)
-* [owini](https://github.com/owini)
-* [rkabita](https://github.com/rkabita)
-* [logangeorge01](https://github.com/logangeorge01)
-* [SeojinK1m](https://github.com/SeojinK1m)
-* [enumcase](https://github.com/enumcase)
-* [mghalayini](https://github.com/mghalayini)
-* [ankasengupta](https://github.com/ankasengupta)
-* [yiyangiliu](https://github.com/yiyangiliu)
-* [monishshah18](https://github.com/monishshah18)
-* [Josh0823](https://github.com/Josh0823)
-* [HTian1997](https://github.com/HTian1997)
-* [DeveloperRyan](https://www.github.com/developerryan)
-* [Martje55555](https://github.com/Martje55555)
-* [kvfp](https://github.com/kvfp)
-* [ducdoan510](https://github.com/ducdoan510)
-* [ZhiYingSun](https://github.com/ZhiYingSun)
-* [rohantib](https://github.com/rohantib)
-* [mgayatri77](https://github.com/mgayatri77)
-* [scheng](https://github.com/scheng)
-* [leundai](https://github.com/leundai)
-* [davidteather](https://github.com/davidteather)
-* [danmoop](https://github.com/danmoop)
-* [qc542](https://github.com/qc542)
-* [bekadeveloper](https://github.com/bekadeveloper)
-* [Eurus-Holmes](https://github.com/Eurus-Holmes)
-* [ch2ohch2oh](https://github.com/ch2ohch2oh)
-* [Pochetes](https://github.com/Pochetes)
-* [allen-tran](https://github.com/allen-tran)
-* [BaoLongNguyenUMD](https://github.com/BaoLongNguyenUMD)
-* [nimeshnischal](https://github.com/nimeshnischal)
-* [tson1111](https://github.com/tson1111)
-* [matthewbrown77](https://www.github.com/matthewbrown77)
-* [nikhilkala](https://www.github.com/nikhilkala)
-* [ayoung19](https://github.com/ayoung19)
-* [alexypdu](https://github.com/alexypdu)
-* [yiyiyimu](https://github.com/yiyiyimu)
